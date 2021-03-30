@@ -1,2 +1,2 @@
 language: java
-script: /my-app/mvn verify
+script: mvn verify
